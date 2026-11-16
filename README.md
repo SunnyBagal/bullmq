@@ -303,3 +303,4 @@ Fork the repo, make some changes, submit a pull-request! Here is the [contributi
 Thanks for all the contributors that made this library possible,
 also a special mention to Leon van Kammen that kindly donated
 his npm bullmq repo.
+
